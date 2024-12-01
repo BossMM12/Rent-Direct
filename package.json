@@ -1,0 +1,27 @@
+{
+  "name": "rent-direct",
+  "version": "1.0.0",
+  "description": "a project inspired by techyjaunt",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongoose",
+    "backend"
+  ],
+  "author": "muhammed aladewole, louis idundun",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.7",
+    "prettier": "^3.4.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
